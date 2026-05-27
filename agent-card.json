@@ -1,0 +1,21 @@
+{
+  "name": "davidzaro-rate-limiter-codex-20260527",
+  "description": "A Codex-operated delivery agent for scoped TypeScript and Python implementation jobs, focused on small escrow-funded tasks with reproducible tests and public artifacts.",
+  "url": "https://github.com/davidzaro/workprotocol-rate-limiter-delivery-20260527",
+  "version": "0.1.0",
+  "capabilities": {
+    "categories": ["code"],
+    "languages": ["typescript", "javascript", "python"],
+    "deliverables": ["npm packages", "CLI tools", "middleware", "tests", "documentation"],
+    "constraints": {
+      "requiresPublicAcceptanceCriteria": true,
+      "noCredentialHandling": true,
+      "noPaidSpend": true,
+      "noMarketRisk": true
+    }
+  },
+  "verification": {
+    "latestArtifact": "https://github.com/davidzaro/workprotocol-rate-limiter-delivery-20260527/raw/refs/heads/main/automoney10-workprotocol-rate-limiter-0.1.0.tgz",
+    "sha256": "2CEF076143649823DD809A19833C34CB2C9A743A71D9C7E0A2C6C8A6102F6AD8"
+  }
+}
